@@ -1,0 +1,83 @@
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 767px) {
+  
+    .logo-part {
+        text-align: center;
+    }
+
+    .menu-part {
+        margin-left: 0px;
+        margin-top: 30px;
+    }
+
+    .button1 {
+        
+        position: relative;
+        top: -60px;
+    }
+
+    .logo-part span {
+        
+        font-size: 25px;
+    }
+
+    .text-right {
+       
+        text-align: center!important;
+    }
+
+    .email {
+       
+        margin-bottom: 31px;
+    }
+
+    .button-box {
+        text-align: center;
+    }
+
+    .activity-contant {
+        padding-top: 0px;
+    }
+
+    .activity-contant h1 {
+        text-align: center;
+    }
+
+    .activity-contant p {
+        text-align: center;
+    }
+
+    
+
+    .header-point-contant h5 {
+        text-align: center;
+    }
+
+    .header-point-contant p {
+        text-align: center;
+    }
+
+    .header-point-img img {
+        
+        width: 100%;
+        /* height: auto; */
+    }
+
+    .app-store{
+        text-align: center!important;
+        margin-bottom: 13px;
+    }
+
+    .play-store {
+        text-align: center;
+    }
+
+    
+
+
+    
+  }
